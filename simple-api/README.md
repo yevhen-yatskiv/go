@@ -10,6 +10,8 @@ To run the project, use the following command:
 go run main.go
 ```
 
+The server will start on port 8080. You can access the "Hello World" endpoint by navigating to `http://localhost:8080` in your web browser.
+
 ## Project Structure
 
 - `main.go`: The main entry point of the application.
